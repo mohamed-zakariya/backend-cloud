@@ -7,7 +7,7 @@ The frontend of this Blog System is hosted in an S3 bucket. You can access it vi
 
 # Node.js Application
 
-A Node.js app for managing a Blog System using Cloud Services.
+A Node.js app for managing a Blog System using Cloud Services (EC2 Instance & RDS).
 
 Great for testing simple deployments on Cloud.
 
